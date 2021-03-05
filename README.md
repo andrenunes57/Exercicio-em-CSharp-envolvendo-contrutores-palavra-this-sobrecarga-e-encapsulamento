@@ -54,9 +54,16 @@ Entre um valor para saque: **198.00**
 Dados da conta atualizados:
 Conta 7801, Titular: Maria Brown, Saldo: $ -3.00
 
-#### Projeto da classe Conta Bancária  
+#### Projeto da classe "Conta Bancária"
 
-![projeto-classe-conta-bancaria](C:\Users\andre\Documents\C# COMPLETO\projeto-classe-conta-bancaria.JPG).
+| **ContaBancaria**                                            |
+| :----------------------------------------------------------- |
+| -Numero: Integer<br />-Titular: String<br />-Saldo: Double   |
+| +Deposito(quantia: double) : void<br />+Saque(quantia : double) : void |
+
+
+
+
 
 
 
