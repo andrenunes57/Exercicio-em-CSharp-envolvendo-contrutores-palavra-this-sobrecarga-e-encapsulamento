@@ -26,14 +26,14 @@ Entre o titular da conta: **Alex Green**<br>
 Haverá depósito inicial (s/n)? **s**<br>
 Entre o valor de depósito inicial: **500.00**<br>
 
-<br>Dados da conta:<br>
+Dados da conta:<br>
 Conta 8532, Titular: Alex Green, Saldo: $ 500.00<br>
 
-<br>Entre um valor para depósito: **200.00**<br>
+Entre um valor para depósito: **200.00**<br>
 Dados da conta atualizados:<br>
 Conta 8532, Titular: Alex Green, Saldo: $ 700.00<br>
 
-<br>Entre um valor para saque: **300.00**<br>
+Entre um valor para saque: **300.00**<br>
 Dados da conta atualizados:<br>
 Conta 8532, Titular: Alex Green, Saldo: $ 395.00<br>
 
@@ -43,14 +43,14 @@ Entre o número da conta: **7801**<br>
 Entre o titular da conta: **Maria Brown**<br>
 Haverá depósito inicial (s/n)? **n**<br>
 
-<br>Dados da conta:<br>
+Dados da conta:<br>
 Conta 7801, Titular: Maria Brown, Saldo: $ 0.00<br>
 
-<br>Entre um valor para depósito: **200.00**<br>
+Entre um valor para depósito: **200.00**<br>
 Dados da conta atualizados:<br>
 Conta 7801, Titular: Maria Brown, Saldo: $ 200.00<br>
 
-<br>Entre um valor para saque: **198.00**<br>
+Entre um valor para saque: **198.00**<br>
 Dados da conta atualizados:<br>
 Conta 7801, Titular: Maria Brown, Saldo: $ -3.00<br>
 
